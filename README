@@ -1,1 +1,3 @@
 Code for Dual Pricing for Prioritizing Renewable Energy and Consumer Preferences in Electricity Markets
+
+Run the 'run_ERCOT_system' code to see the effects of introducing a value for preference for green electricity.
